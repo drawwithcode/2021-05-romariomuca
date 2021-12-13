@@ -1,2 +1,2 @@
-# node-and-p5-template
-Bootstrapped project using node and p5
+# p5-node-lesson
+ my first node app
